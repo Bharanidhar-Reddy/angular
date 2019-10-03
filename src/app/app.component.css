@@ -1,0 +1,17 @@
+h1{
+    font-family: Big Noodle Too,impact,sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    font-weight: 400;
+    font-variant: normal;
+    text-align: center;
+    line-height: normal;
+    letter-spacing: .5px;
+}
+.basic{
+    background-image: url('../assets/images/homewallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
